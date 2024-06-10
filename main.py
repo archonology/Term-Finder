@@ -1,14 +1,11 @@
 from termFinder import TermFinder
 
 texts = [
-    'anna-1.txt',
-    'beloved-1.txt',
-    'don_quixote-1.txt',
-    'gatsby-1.txt',
-    'harry.txt',
-    'irish.txt',
-    'kqiiihlp.txt',
-    'maniac.txt'
+    'art-and-heart.txt',
+    'brothers-karamoz.txt',
+    'japanese-fairy-tales.txt',
+    'metamorphosis.txt',
+    'thus-spake-zathustra.txt',
     ]
 
 def main():
